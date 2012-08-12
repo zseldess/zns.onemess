@@ -1,0 +1,8 @@
+zns.onemess - like onebang, but for all messages
+	-Developed by Zachary Seldess, King Abdullah University of Science and Technology
+
+
+Installation:
+	-Place this directory (zns.onemess/) and all its contents in MaxSDK-x.x.x/examples/ (or another immediate subdirectory of MaxSDK-x.x.x/)
+
+

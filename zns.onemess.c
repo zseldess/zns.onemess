@@ -34,7 +34,7 @@ void onemess_bang(t_onemess *x);
 void *onemess_class;
 
 
-int main(void)
+int C74_EXPORT main(void)
 {	
     t_class *c;
 

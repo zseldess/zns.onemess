@@ -51,6 +51,8 @@ int C74_EXPORT main(void)
 
     class_register(CLASS_BOX, c); /* CLASS_NOBOX */
     onemess_class = c;
+    
+    post("zns.onemess - Copyright (c) 2023, Zachary Seldess. All rights reserved.");
 
     return 0;
 }
